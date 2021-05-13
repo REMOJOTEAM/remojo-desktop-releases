@@ -1,6 +1,15 @@
-# Remojo v0.1.1
+# Remojo v0.2.0
 
 This is official release repository of the Remojo desktop client.
+
+## [0.2.0] - 2020-05-13
+### Added
+ - Oversight
+### Fixed
+ - DNS blocker issues on Windows with non-english locale
+ - DNS blocker now persists across machine restarts
+ - UI now adapts to lower resolution screens
+ - Performance optimizations
 
 ## [0.1.1] - 2020-04-21
 ### Added
